@@ -1,0 +1,14 @@
+Hospital System — Product Backlog (10 User Stories)
+
+ID | User Story Title | Priority | Business Value | Complexity (Story Points)
+---|-----------------|---------|----------------|--------------------------
+US01 | Patient Registration | High | 10 | 5
+US02 | Patient Login | High | 9 | 3
+US03 | Book Appointment | High | 10 | 5
+US04 | Doctor Dashboard | Medium | 8 | 5
+US05 | Add Medical Record | High | 10 | 8
+US06 | Request Lab Test | Medium | 8 | 5
+US07 | View Lab Results | Medium | 7 | 5
+US08 | Billing Calculation | High | 9 | 8
+US09 | Pharmacy Medication Request | Medium | 8 | 5
+US10 | Discharge Summary | Medium | 7 | 5
