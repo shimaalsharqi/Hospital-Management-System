@@ -1,0 +1,23 @@
+الـ Features الأساسية
+
+بعد البحث في أنظمة إدارة المستشفيات، هذه هي أهم الوظائف:
+
+Patient Registration (تسجيل المرضى)
+
+Appointment Scheduling (حجز المواعيد)
+
+Doctor Management (إدارة الأطباء)
+
+Medical Records / EMR (السجلات الطبية الإلكترونية)
+
+Billing & Payments (الفواتير والمدفوعات)
+
+Pharmacy Requests (طلبات الصيدلية)
+
+Lab Test Orders (طلبات التحاليل)
+
+Discharge Summary (ملخص الخروج)
+
+Insurance Processing (معالجة التأمين)
+
+Notifications & Alerts (الإشعارات والتنبيهات)
