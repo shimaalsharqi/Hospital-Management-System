@@ -1,0 +1,49 @@
+User Stories for Hospital Management System
+
+1. Definition of User Stories:
+A User Story is a short description of a user's requirement explaining who needs it, what they need, and why.
+Standard Format:
+As a <type of user>, I want <desired functionality> so that <benefit or goal>.
+
+Example:
+As a patient, I want to book an appointment with a doctor so that I can receive timely treatment.
+
+2. How to Write Effective User Stories:
+- User-focused: Always start with the type of user (patient, doctor, receptionist).
+- Clear and concise: Avoid technical jargon; make it easy to understand.
+- Testable: The story should be verifiable once implemented.
+- Estimable: The team can estimate the effort required.
+- Benefit-driven: Explain the value or reason for the functionality.
+
+Examples:
+- As a patient, I want to view my lab results online so that I can track my health progress.
+- As a doctor, I want to add a medical record after consultation so that the patient history is updated.
+- As a receptionist, I want to register new patients so that they can access hospital services.
+
+3. Acceptance Criteria:
+Definition: Specific conditions that must be met for a User Story to be considered complete.
+Importance:
+- Clarifies requirements for developers and testers.
+- Ensures the functionality is implemented correctly.
+- Defines when a story is considered "Done".
+- Helps the team verify that the feature meets user needs.
+
+Example for Hospital System User Story:
+User Story:
+As a patient, I want to view my lab results online so that I can track my health progress.
+
+Acceptance Criteria:
+- Lab results must be displayed in a readable format (PDF or HTML).
+- Only the authenticated patient can access their own results.
+- Notifications are sent to the patient when results are available.
+- Results can be downloaded or printed.
+
+Diagrams and Charts:
+To include diagrams in README.md (Markdown), use Mermaid syntax. Example:
+
+```mermaid
+flowchart TD
+    Patient -->|Books Appointment| Receptionist
+    Receptionist -->|Schedules| Doctor
+    Doctor -->|Updates| Medical_Record
+    Medical_Record -->|Available to| Patient
